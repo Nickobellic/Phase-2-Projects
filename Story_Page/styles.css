@@ -1,0 +1,42 @@
+#author-name {
+    text-align: center;
+}
+
+#ball-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.ball {
+    margin-right: 10px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+h2 {
+    margin-left: 50px;
+}
+
+.h3[class="explanation"] {
+    margin-left: 25px;
+}
+
+.locations {
+    display: flex;
+    justify-content: space-around;
+}
+
+.loc-det {
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    margin-left: 70px;
+}
+
+#title-name {
+    text-align: center;
+}

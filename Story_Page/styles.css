@@ -15,10 +15,9 @@
     background-color: blue;
 }
 
-body {
-background: rgb(36,33,0);
-background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(176,41,41,1) 35%, rgba(36,33,0,1) 100%); 
-    color: white;
+body {background: rgb(36,33,0);
+    background: radial-gradient(circle, rgba(36,33,0,1) 0%, rgba(176,41,41,1) 35%, rgba(84,43,143,1) 100%);
+color: white;
 }
 
 h2 {
